@@ -2,7 +2,7 @@ let provider;
 let signer;
 let auctionContract;
 
-const contractAddress = "0x7167FF2dcf71eda13486ba08679540BeFDB3D5AA"; // Replace with your deployed contract address
+const contractAddress = "0x05b79753c4975BC4b4787A953Eddc25F21dbe64A"; // Replace with your deployed contract address
 const contractABI = [
 	{
 		"anonymous": false,
