@@ -16,14 +16,14 @@
 ---
 
 ## Contract Details
-- **Contract Address**: [0x7167FF2dcf71eda13486ba08679540BeFDB3D5AA](https://xt4scan.ngd.network/address/0x7167FF2dcf71eda13486ba08679540BeFDB3D5AA)
-- **Network**: Neo X Testnet T4
+- **Contract Address**: [0x05b79753c4975BC4b4787A953Eddc25F21dbe64A](https://xexplorer.neo.org/address/0x05b79753c4975BC4b4787A953Eddc25F21dbe64A)
+- **Network**: Neo X Mainnet
 - **Currency Used**: GAS
 
 ---
 
 ## Deployment
-- **Smart Contract Address**: [View Contract on Explorer](https://xt4scan.ngd.network/address/0x7167FF2dcf71eda13486ba08679540BeFDB3D5AA)
+- **Smart Contract Address**: [View Contract on Explorer](https://xexplorer.neo.org/address/0x05b79753c4975BC4b4787A953Eddc25F21dbe64A)
 - **Supported Wallets**: MetaMask and other Web3-compatible wallets.
 
 ---
